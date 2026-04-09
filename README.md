@@ -1,5 +1,4 @@
-# quote-generator
-test maker 01
+# Quote-Generator
 
 A simple website that generates random quotes.
 
